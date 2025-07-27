@@ -1,0 +1,30 @@
+# Entorno virtual de Python
+venv/
+ENV/
+env/
+.venv/
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Archivos de configuración sensible
+credentials.json
+token.json
+.env
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs y salidas temporales
+*.log
+*.tmp
+
+# Jupyter y colab outputs (si usas notebooks)
+.ipynb_checkpoints/
+
+# Configuración local de VSCode
+.vscode/
